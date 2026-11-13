@@ -131,3 +131,28 @@ The different type of networks are:
 - **WLAN** -- Wireless Local Area Network
 - **WAN** -- Wide Area Network
 - **CAN** -- Campus Area Network
+## 23. LAN
+LAN is a network of connected computing devices by cables in a small area--like a home, school, office, building--so they can share files and communicate or use the internet.
+## 24. WLAN
+WLAN is just a wireless, cableless LAN.
+## 25. WiFi
+WiFi is a wireless communication technology that allows computing devices to communicate wirelessly using a router that recieves information in the form of radio waves and passes them to the correct computing device.
+WiFi is what allows a wireless connection to the internet. WiFi is not the internet.
+## 25. WAN
+WAN is a network that allows computing devices seperated by large distances (across cities, countries, continents) to communicate with eachother.
+## 26. Types of traffic (data) flow
+**Unicast/One-to-One**: data goes from a single computing device to another
+**Multicast/One-to-Group**: data goes from a single computing device to many computing devices, but not all
+**Broadcast/One-to-All**: data goes from a single computing device to all the computing devices on the network
+## 27. Wired network devices
+**Hub**: connects multiple computing devices in LAN (computing devices are wired to the hub, instead of each computing device being wired to eachother)
+Disadvantages of the hub are:
+	- Sends data to all connected devices
+	- All the computing devices recieve the same bandwidth
+	- Slower and less secure.
+**Switch**: basically a hub but better and smarter.
+Advantages of the switch are:
+- Sends data to specific computing devices
+- Each connection can use the full speed of the port it is connected to
+- Faster and more secure.
+
